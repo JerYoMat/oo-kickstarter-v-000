@@ -8,8 +8,7 @@ class Backer
   end
   
   def back_project(project)
-    project.backers 
-    binding.pry 
+    project.
   end 
   
 end 
